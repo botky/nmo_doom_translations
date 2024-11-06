@@ -3,6 +3,7 @@ Different language translations for nmo_doom
 
 //////////////////////
 INSTALLATION TUTORIAL
+
 //////////////////////
 
 1. You need to have a download/precache plugin, for example this one: https://forums.alliedmods.net/showthread.php?p=2482368
