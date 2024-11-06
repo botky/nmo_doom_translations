@@ -1,10 +1,9 @@
 # nmo_doom_translations
 Different language translations for nmo_doom
 
-//////////////////////
+---------------------
 INSTALLATION TUTORIAL
-
-//////////////////////
+----------------------
 
 1. You need to have a download/precache plugin, for example this one: https://forums.alliedmods.net/showthread.php?p=2482368
 2. You will have to list these .txt files inside the "downloadonly.txt" file of the plugin
